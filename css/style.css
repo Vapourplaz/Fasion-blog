@@ -23,3 +23,163 @@ header ul li{
 .home{
     color: yellow;
 }
+.hero{
+    height: 428px;
+    background-image: url(/img/hero_img.png);
+    background-size: cover;
+    position: relative;
+}
+.hero__text{
+    font-size: 25px;
+    color: white;
+    border-radius: 50px;
+    height: 200px;
+    background-color: transparent;
+    position: absolute;
+    bottom: -88px;
+    left:100px;
+}
+.date{
+    font-size: 10px;
+    color: teal;
+}
+.first__row{
+    display: flex;
+}
+.first{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 100px;
+    border: black 1px solid;
+}
+.first__img{
+    background-size: cover;
+    background-image: url(/img/img1.png);
+    width: 330px;
+    height:250px ;
+}
+.second{
+    margin-top: 100px;
+    border: black 1px solid;
+}
+.second__img{
+    background-size: cover;
+    background-image: url(/img/img2.png);
+    width: 330px;
+    height:250px ;
+}
+.second__row{
+    display: flex;
+}
+.third{
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border: black 1px solid;
+}
+.third__img{
+    background-size: cover;
+    background-image: url(/img/img3.png);
+    width: 330px;
+    height:250px ;
+}
+.fourth{
+    margin-top: 100px;
+    border: black 1px solid;
+}
+.fourth__img{
+    background-size: cover;
+    background-image: url(/img/img4.png);
+    width: 330px;
+    height:250px ;
+}
+.third__row{
+    display: flex;
+}
+.fifth{
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border: black 1px solid;
+}
+.fifth__img{
+    background-size: cover;
+    background-image: url(/img/img5.png);
+    width: 330px;
+    height:250px ;
+}
+.sixth{
+    margin-top: 100px;
+    border: black 1px solid;
+}
+.sixth__img{
+    background-size: cover;
+    background-image: url(/img/img6.png);
+    width: 330px;
+    height:250px ;
+}
+.seventh{
+    margin-left: 200px;
+    width: 760px;
+    margin-top: 100px;
+    border: black 1px solid;
+}
+.seventh__img{
+    background-size: cover;
+    background-image: url(/img/img7.png);
+    width: 760px;
+    height:250px ;
+}
+.seventh__text{
+    margin-top:20px;
+}
+.fifth__row{
+    display: flex;
+}
+.eigth{
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border: black 1px solid;
+}
+.eigth__img{
+    background-size: cover;
+    background-image: url(/img/img8.png);
+    width: 330px;
+    height:250px ;
+}
+.ninth{
+    margin-top: 100px;
+    border: black 1px solid;
+}
+.ninth__img{
+    background-size: cover;
+    background-image: url(/img/img9.png);
+    width: 330px;
+    height:250px ;
+}
+.sixth__row{
+    display: flex;
+}
+.tenth{
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border: black 1px solid;
+}
+.tenth__img{
+    background-size: cover;
+    background-image: url(/img/img10.png);
+    width: 330px;
+    height:250px ;
+}
+.eleventh{
+    margin-top: 100px;
+    border: black 1px solid;
+}
+.eleventh__img{
+    background-size: cover;
+    background-image: url(/img/img11.png);
+    width: 330px;
+    height:250px ;
+}
