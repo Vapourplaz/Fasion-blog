@@ -43,12 +43,15 @@ header ul li{
     font-size: 10px;
     color: teal;
 }
+.news{
+    display: flex;
+}
 .first__row{
     display: flex;
 }
 .first{
     margin-top: 100px;
-    margin-left: 200px;
+    margin-left: 100px;
     margin-right: 100px;
     border: black 1px solid;
 }
@@ -72,7 +75,7 @@ header ul li{
     display: flex;
 }
 .third{
-    margin-left: 200px;
+    margin-left: 100px;
     margin-right: 100px;
     margin-top: 100px;
     border: black 1px solid;
@@ -97,7 +100,7 @@ header ul li{
     display: flex;
 }
 .fifth{
-    margin-left: 200px;
+    margin-left: 100px;
     margin-right: 100px;
     margin-top: 100px;
     border: black 1px solid;
@@ -119,7 +122,7 @@ header ul li{
     height:250px ;
 }
 .seventh{
-    margin-left: 200px;
+    margin-left: 100px;
     width: 760px;
     margin-top: 100px;
     border: black 1px solid;
@@ -137,7 +140,7 @@ header ul li{
     display: flex;
 }
 .eigth{
-    margin-left: 200px;
+    margin-left: 100px;
     margin-right: 100px;
     margin-top: 100px;
     border: black 1px solid;
@@ -162,7 +165,7 @@ header ul li{
     display: flex;
 }
 .tenth{
-    margin-left: 200px;
+    margin-left: 100px;
     margin-right: 100px;
     margin-top: 100px;
     border: black 1px solid;
@@ -182,4 +185,66 @@ header ul li{
     background-image: url(/img/img11.png);
     width: 330px;
     height:250px ;
+}
+.about__the__authour{
+    
+    padding: 10px 5px;
+    border: black 1px solid;
+
+}
+.side1{
+    margin-top: 100px;
+    padding: 5px 5px;
+    border: black 1px solid;
+    margin-left: 50px;
+}
+
+.side1__img{
+    margin-top: 50px;
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+    background-image: url(/img/side1.png);
+}
+.side2{
+    margin-top: 100px;
+    padding: 5px 5px;
+    border: black 1px solid;
+    margin-left: 50px;
+}
+
+.side2__img{
+    margin-top: 50px;
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+    background-image: url(/img/side2.png);
+}
+.side3{
+    margin-top: 100px;
+    padding: 5px 5px;
+    border: black 1px solid;
+    margin-left: 50px;
+}
+
+.side3__img{
+    margin-top: 50px;
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+    background-image: url(/img/side3.png);
+}
+.side4{
+    margin-top: 100px;
+    padding: 5px 5px;
+    border: black 1px solid;
+    margin-left: 50px;
+}
+
+.side4__img{
+    margin-top: 50px;
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+    background-image: url(/img/side4.png);
 }
